@@ -1,1 +1,1 @@
-C# application as example of handling one-to-many relationships, many-to-many relationships, using validations, create User Interface Design reffered to SQL Server or Oracle Database.
+C# .NET Windows Forms application for example of handling one-to-many relationships, many-to-many relationships, validations and user interfaces connected to SQL Server or Oracle Database with use of SAP Crystal Reports. Created in Visual Studio 2017. SQL database backup uploaded. Oracle database backup at: https://www.dropbox.com/s/bwne54dsjue2t8t/Oracle_database_backup.rar?dl=0 .
